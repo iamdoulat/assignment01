@@ -9,8 +9,7 @@
     margin: 50px auto;
     background-repeat: no-repeat;
     background-image: url(../images/banner-image.png);
-    border-radius: 16px;
-    
+    border-radius: 16px; 
 }
 .banner-text{
     background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
@@ -36,3 +35,97 @@
     font-weight: 900;
     line-height: 95px;
 }
+.offer{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-bottom: 48px;
+}
+.holiday-deal{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-bottom: 16px;
+}
+.all-category{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.cat-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+    padding-top: 48px;
+}
+.mid-night{
+    width: 1320px;
+    height: 600px;
+    margin: 50px auto;
+    background-repeat: no-repeat;
+    background-image: url(../images/mid-night.png);
+    border-radius: 16px;
+    display: flex;
+}
+.mid-party-text{
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px; /* 137.5% */
+    letter-spacing: 7.04px;
+    padding-top: 126px;
+    padding-left: 126px;
+}
+.party-description{
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    padding-top: 24px;
+    padding-left: 126px;
+}
+.join-btn{
+    margin-left: 158px;
+    margin-top: 48px;
+    border-radius: 5px;
+    border: 0;
+    background: #61f50c;
+    color: #000000;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    padding: 10px 10px 10px 10px;
+}
+
+.midnight-img{
+    padding-right: 135px;
+    padding-top: 70px;
+    
+}
+.mid-text{
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+}
+
