@@ -180,15 +180,23 @@
     background: rgba(255, 0, 0, 0.05);
     border-radius: 16px;
     display: flex;
+    padding: 80px;
 }
 .subscribe-form input{
     width: 648px;
     height: 70px;
-   flex-grow: 1;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    padding-left: 60px;
+    border: 0;
+    border-radius: 50px 0px 0px 50px;
+    background: #FFF;
+    flex-grow: 1;
 }
 .subscribe-form-btn{
-    width: 210px;
-    height: 72px;
+    width: auto;
+    height: auto;
     border-radius: 0px 50px 50px 0px;
     border: 0;
     background: #FF0000;
@@ -200,7 +208,7 @@
     font-weight: 700;
     line-height: normal;
     text-transform: uppercase;
-    padding: 48px 336px 80px 336px;
+    padding: 25px 25px 25px 25px;
 }
 .subscribe-form-btn:hover{
     background-color: #3e8e41;
@@ -240,7 +248,7 @@
 footer{
     width: 100%;
     height: 609px;
-    margin: auto;
+    margin-top: 120px;
     background: #070211;
 }
 .section1{
