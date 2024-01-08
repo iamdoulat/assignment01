@@ -140,6 +140,31 @@ footer{
     height: 609px;
     margin: auto;
     background: #070211;
+}
+.section1{
+    width: 100%;
+    max-width: 1600px;
+    height: auto;
+    margin: auto;
+    background: #070211;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+}
+.section2{
+    width: 100%;
+    max-width: 1600px;
+    height: auto;
+    margin: auto;
+    background: #070211;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+}
+.section3{
+    width: 100%;
+    max-width: 1600px;
+    height: auto;
+    margin: auto;
+    background: #070211;
     display: flex;
     justify-content: space-between;
 }
@@ -151,6 +176,7 @@ footer{
     font-weight: 500;
     line-height: 40px;
     padding-top: 120px;
+    padding-bottom: 48px;
     padding-left: 140px;
     padding-right: 140px;
 }
@@ -162,7 +188,38 @@ footer{
     font-weight: 500;
     line-height: 40px;
     padding-top: 120px;
+    padding-bottom: 48px;
     padding-left: 140px;
     padding-right: 140px;
 }
-
+.social-links{
+    line-height: 40px;
+    padding-top: 120px;
+    padding-bottom: 48px;
+    padding-left: 45%;
+    padding-right: 140px;
+}
+.rights{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    padding-top: 120px;
+    padding-bottom: 48px;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+.unsubs{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    padding-left: 140px;
+    padding-right: 140px;
+}
