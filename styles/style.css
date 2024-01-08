@@ -119,6 +119,10 @@
     text-transform: uppercase;
     padding: 10px 10px 10px 10px;
 }
+.join-btn:hover {
+    background-color: #3e8e41;
+    color: #FFF;
+}
 
 .midnight-img{
     padding-right: 135px;
@@ -129,3 +133,37 @@
     background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
 }
 
+
+.footer-section{
+    width: 100%;
+    max-width: 1600px;
+    height: 609px;
+    margin: auto;
+    background: #070211;
+    padding-top: 120px;
+    padding-left: 140px;
+    padding-right: 275px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+#addr{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+}
+.footer-3{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
