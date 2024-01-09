@@ -35,6 +35,12 @@
     font-weight: 900;
     line-height: 95px;
 }
+
+/* category section */
+.categories{
+    width: auto;
+    align-items: center;
+}
 .offer{
     color: #F00;
     text-align: center;
@@ -74,6 +80,8 @@
     padding-top: 48px;
     align-items: center;
 }
+
+/* Midnight section */
 .mid-night{
     width: 1320px;
     height: 600px;
@@ -237,6 +245,7 @@
     margin: 50px auto;
     border-radius: 16px;
     display: flex;
+    align-items: center;
 }
 .best-gift{
     color: #F00;
@@ -278,7 +287,7 @@
     padding-bottom: 24px;
 }
 .portfolio-img img{
-    width: 100%;
+    width: auto%;
 }
 
 /* subscribe form */
@@ -356,7 +365,7 @@
 
 /* footer section */
 footer{
-    width: 100%;
+    width: auto;
     height: 609px;
     margin-top: 120px;
     background: #070211;
