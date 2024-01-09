@@ -240,19 +240,19 @@
 }
 .img2{
     position: absolute;
-    right: 400px;
+    bottom: 200px;
     left: 730px;
 }
 .img3{
     position: absolute;
-    right: 400px;
+    top: 10px;
     left: 890px;
 }
 .img4{
     background-repeat: no-repeat;
     background-position: left bottom;
     position: absolute;
-    bottom: 0px;
+    bottom: -70px;
     left: 0px;
 }
 
@@ -272,6 +272,7 @@
     font-style: normal;
     font-weight: 500;
     line-height: normal;
+    padding-top: 120px;
 }
 .awesome{
     color: #070211;
